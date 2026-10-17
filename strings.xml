@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fixa AI</string>
+    <string name="assistant_name">Fixa</string>
+    <string name="floating_service_desc">Fixa floating screen assistant active</string>
+</resources>
